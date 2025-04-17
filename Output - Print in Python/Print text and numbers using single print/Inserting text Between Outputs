@@ -1,0 +1,22 @@
+QUESTION
+-----------------------------------------------------
+Remember that to print multiple values on same line, we have to use comma inside print statement.
+We can also combine text and numbers in a single print statement by comma separating them.
+
+For example, check the below code:
+        print("My favorite number is", 10)
+
+The code will output:
+        My favorite number is 10
+
+Task:  You have to output the text:  7 plus 3 equals 10
+
+Replace the underscores in the editor to get the above output.
+
+SOLUTION
+-------------------------------------------------------
+print(7, "plus", 3, "equals", 10)
+
+Your output:
+-------------------------------------------------------
+7 plus 3 equals 10
