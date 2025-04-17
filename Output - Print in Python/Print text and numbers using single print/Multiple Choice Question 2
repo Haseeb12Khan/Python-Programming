@@ -1,0 +1,23 @@
+QUESTION
+--------------------------------------------------------------
+What will be the output of this code?
+          print("Add", 2, "and", 3, "to get ", 5)
+
+Option 1:  Add 2 and 3 to get 5
+Option 2:  "Add" 2 "and" 3 "to get " 5
+Option 3:  Add 2 and 3 to get  5
+
+Note: In Option 1, there is 1 space between "get"  and '5'. 
+In Option 3, there are 2 spaces between "get"  and '5'.
+
+Select one of the following options.
+1. Option 1      2. Option 2      3. Option 3
+
+Correct Answer:
+---------------------------------------------------------------
+Option 3
+
+Explanation:
+--------------------------------------------------------------
+"to get " has an additional space.
+Hence - there are 2 spaces between "to get" and 5.
