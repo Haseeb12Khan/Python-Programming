@@ -1,0 +1,48 @@
+QUESTION
+-------------------------------------------------
+There are many different types of variables in Python. The type of a variable is defined by the kind of value it stores.
+
+Some variable types in Python are as follows:
+
+1. Numeric variables - hold integers and decimal values
+        age = 25
+        temperature = 98.6
+
+2. String variables - Stores a sequence of characters enclosed in single or double quotes
+        name = "John Doe"
+        message = 'Hello, world!'
+
+3. Boolean variables - only hold the values true and false
+        is_true = True
+        is_false = False
+
+4. List variables - Stores a collection of items, which can be of different types.
+        numbers = [1, 2, 3, 4, 5]
+        fruits = ['apple', 'banana', 'orange']
+
+5. Tuple variables
+        coordinates = (10, 20)
+
+6. Dictionary variables
+        person = {'name': 'Alice', 'age': 30}
+
+7. Set variables
+        unique_numbers = {1, 2, 3}
+
+8. None variable
+        empty_value = None
+
+We will learn about all of them in coming lessons.
+
+Task:  Write a program which does the following.
+      There is a variable named number having value 20 in the editor.
+      Use the print command to output the value of (number - 1).
+
+SOLUTION
+------------------------------------------------------------
+number = 20
+print(number - 1)
+
+Your output:
+------------------------------------------------------------
+19
