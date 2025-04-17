@@ -1,0 +1,24 @@
+QUESTION
+------------------------------------------------
+What is the difference between
+
+      print(12)
+      print(11)
+and
+
+      print(12)
+
+      print(11)
+
+Select one of the options below.
+1. The first code will output on the 1st line. The 2nd line will be empty. The second code will output on the 3rd line.
+2. The two codes are equivalent.
+3. The second code is wrong, and will not compile.
+
+Correct Answer:
+----------------------------------------------------
+2. The two codes are equivalent.
+
+Explanation:
+----------------------------------------------------
+Adding one or multiple lines between the two print statements does not affect the output. Therefore, both codes are equivalent.
