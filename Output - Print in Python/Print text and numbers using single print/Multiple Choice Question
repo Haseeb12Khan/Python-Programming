@@ -1,0 +1,21 @@
+QUESTION
+---------------------------------------------
+What will be the output of this code?
+        print(82, 2, " ", 3)
+
+Option 1:  8223
+Option 2:  82 2 3
+Option 3:  82 2   3
+Option 4:  82 2 " " 3
+
+Select one of the following options.
+1. Option 1      2. Option 2      3. Option 3      4. Option 4
+
+Correct Answer:
+---------------------------------------------------
+Option 3
+
+Explanation:
+--------------------------------------------------
+There will be 3 'spaces' between 2 and 3. 
+2 spaces added because of the commas and one space enclosed within quotes.
