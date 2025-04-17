@@ -1,0 +1,11 @@
+QUESTION
+------------------------------------------------
+How do we print output on separate lines in Python?
+
+1. We use 2 separate print commands on separate lines.
+2. We use a single print command - the expected output is written on separate lines
+3. We use a single print command - the expected output is written comma separated
+
+Correct Answer:
+---------------------------------------------------
+1. We use 2 separate print commands on separate lines.
