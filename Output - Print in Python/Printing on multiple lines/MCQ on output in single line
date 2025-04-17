@@ -1,0 +1,16 @@
+QUESTION
+--------------------------------------------------------
+What will the following code output?
+
+          print("We need to understand", "how to print multiple output in a single line")
+
+Notice that this is using a comma to print text.
+
+What will the following code output? Select one of the following options.
+1. "We need to understand" "how to print multiple output in a single line"
+2. We need to understand how to print multiple output in a single line
+3. No output - this will give us a compilation error.
+
+Correct Answer:
+----------------------------------------------------------
+2. We need to understand how to print multiple output in a single line
