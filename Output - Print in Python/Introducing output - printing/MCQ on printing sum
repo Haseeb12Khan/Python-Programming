@@ -1,0 +1,19 @@
+QUESTION
+----------------------------------------
+Which line of code will output the sum of 7 and 19?
+
+Hint: There are two correct answers.
+
+1. print = 7 + 19        2. print(7 + 19)        3. print("7 + 19")        4. print (7 + 19)
+
+Correct Answer(s):
+-------------------------------------------
+2. print(7 + 19)
+4. print (7 + 19)
+
+Explanation:
+------------------------------------------
+print = 7 + 19 - Wrong syntax, we need to use () brackets.
+print(7 + 19) - Correct
+print("7 + 19") - Double quotes are for text, here we are doing sum of numbers.
+print (7 + 19) - You can put any number of spaces between code.
