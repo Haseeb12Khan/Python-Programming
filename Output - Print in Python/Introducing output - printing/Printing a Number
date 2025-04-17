@@ -1,0 +1,13 @@
+QUESTION
+----------------------
+We'll begin with the print statement, which is commonly the first thing you learn in most programming languages.
+The print statement in Python is used to display output on the screen. You can use it to print numbers, text, or the results of expressions.
+Let us output a number in Python. This code just prints 12 on the screen when you run it.
+
+SOLUTION
+------------------------
+print(12)
+
+Your output:
+-------------------
+12
